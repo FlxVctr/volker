@@ -16,16 +16,16 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/strohne/volker/blob/main/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/strohne/volker/blob/methodshubv1/DESCRIPTION)
 
 Jünger J, Kotthoff H (2026). *volker: High-Level Functions for
 Tabulating, Charting and Reporting Survey Data*. R package version
-3.3.1, <https://github.com/strohne/volker>.
+3.3.0.9000, <https://github.com/strohne/volker>.
 
     @Manual{,
       title = {volker: High-Level Functions for Tabulating, Charting and Reporting Survey Data},
       author = {Jakob Jünger and Henrieke Kotthoff},
       year = {2026},
-      note = {R package version 3.3.1},
+      note = {R package version 3.3.0.9000},
       url = {https://github.com/strohne/volker},
     }
