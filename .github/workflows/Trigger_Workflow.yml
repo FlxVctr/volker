@@ -16,4 +16,4 @@ jobs:
             -f event_type=report_creator \
             -f client_payload[repository_full_name]="${{ github.repository }}" \
             -f client_payload[repo_hash]="${{ github.sha }}" \
-            -f client_payload[readme]="README.md"
+            -f client_payload[readme]="methodshub.md"
