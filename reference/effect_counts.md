@@ -110,6 +110,6 @@ effect_counts(data, sd_gender, adopter)
 #> |Chi-squared | 13.48|
 #> |n           |   101|
 #> |df          |      |
-#> |p           | 0.019|
+#> |p           | 0.017|
 #> |stars       |     *|
 ```
